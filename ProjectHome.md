@@ -1,0 +1,1 @@
+A utility library to decode MP3 files from binary data.
